@@ -28,16 +28,12 @@
 
   "magisk": {
 
-    "version": "22.0",
+    "version": "21.4",
 
-    "versionCode": "22000",
+    "versionCode": "21400",
 
-    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@22.0/app-release.apk",
-
-    "note": "https://topjohnwu.github.io/Magisk/releases/22000.md",
-
-    "md5": ""
-
+"link": "http://download.qsbl.xyz:88/magisk/214/Magisk-v21.4.zip",
+    "note": "http://download.qsbl.xyz:88/magisk/214/21400.md",
+    "md5": "ee6dd05579776e7de3a6077087846e53"
   }
-
 }

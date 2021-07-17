@@ -6,15 +6,15 @@
 
     "versionCode": "21400",
 
-    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@22.0/app-release.apk",
+    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@21.4/app-release.apk",
 
-    "note": "https://topjohnwu.github.io/Magisk/releases/22000.md"
+    "note": "https://topjohnwu.github.io/Magisk/releases/21400.md"
 
   },
 
   "stub": {
 
-    "versionCode": "20",
+    "versionCode": "18",
 
     "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@22.0/stub-release.apk"
 

@@ -2,9 +2,9 @@
 
   "app": {
 
-    "version": "22.0",
+    "version": "21.4",
 
-    "versionCode": "22000",
+    "versionCode": "21400",
 
     "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@22.0/app-release.apk",
 
